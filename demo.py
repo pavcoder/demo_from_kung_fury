@@ -1,4 +1,7 @@
-﻿from tkinter import *
+#HAHA JUST LITTLE COMMENT
+
+
+from tkinter import *
 import math
 root=Tk()
 c = Canvas(width=1100, height=600, bg='gray4')
